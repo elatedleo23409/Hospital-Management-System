@@ -1,4 +1,7 @@
 # Hospital-Management-System
+
+Link to the hosted website: https://hospitalmgmtsys.herokuapp.com/
+
 Instructions for running the project
 
 
